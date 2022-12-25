@@ -1,4 +1,4 @@
-![image](\images\sfj0aKgIHR4.jpg)
+![image](./images/sfj0aKgIHR4.jpg)
 # Shvets Anastasia
 Rsschool student
 ## Contact
